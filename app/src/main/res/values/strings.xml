@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cricketChirp</string>
+    <string name="chirps">number of chirps in 25 seconds</string>
+    <string name="temp">Calculate Tempaerature</string>
+</resources>
